@@ -1,5 +1,5 @@
 # stock-market
-stock markety predictions
+stock market predictions
 
 ## ARIMA model
 ----------------
